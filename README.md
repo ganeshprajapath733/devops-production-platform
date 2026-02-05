@@ -82,3 +82,11 @@ See [SETUP.md](./SETUP.md) for detailed deployment steps.
 ---
 
 **Skills Demonstrated**: AWS, Terraform, Kubernetes, Docker, GitOps, CI/CD, Prometheus, Grafana, ArgoCD, Infrastructure Automation
+
+## 📸 Screenshots
+
+### ArgoCD GitOps Dashboard
+![ArgoCD](./screenshots/argocd.png)
+
+### Grafana Monitoring
+![Grafana](./screenshots/grafana.png)
